@@ -157,7 +157,7 @@ func fetchURL(url string, quiet bool) (string, bool, error) {
 	return string(data), true, nil
 }
 
-const version = "v0.1.0"
+const version = "v0.1.1"
 
 func run() int {
 	executable := "dmyst"
