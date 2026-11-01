@@ -1,0 +1,23 @@
+# Compiled binaries
+dmyst
+dmyst.exe
+*.exe
+*.out
+
+# Test files and scan reports
+test.txt
+test.html
+findings.txt
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Go test artifacts
+*.test
+coverage.out
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
