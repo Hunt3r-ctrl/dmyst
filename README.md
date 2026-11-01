@@ -56,7 +56,7 @@ go install github.com/Hunt3r-ctrl/dmyst@latest
 To install a specific version:
 
 ```bash
-go install github.com/Hunt3r-ctrl/dmyst@v0.1.0
+go install github.com/Hunt3r-ctrl/dmyst@v0.1.1
 ```
 
 Go downloads the source and builds the executable automatically. No manual binary download is required.
@@ -270,7 +270,7 @@ The tool provides detection signals to support investigation. It does not guaran
 
 ## Version
 
-The source currently declares version `v0.1.0`.
+The source currently declares version `v0.1.1`.
 
 Check the repository's Releases page for published versions.
 
