@@ -156,6 +156,7 @@ dmyst --help
 ## Proof of Concept (POC)
 <img width="872" height="717" alt="dmyst-1" src="https://github.com/user-attachments/assets/28ac77b8-ec2a-4c78-86f2-a286f2924f3a" />
 
+<img width="927" height="495" alt="dmyst-2" src="https://github.com/user-attachments/assets/46ee39c5-dd3e-45a8-8d2a-53435d4cf9c1" />
 
 
 ## Custom Detection Patterns
