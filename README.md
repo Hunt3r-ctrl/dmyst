@@ -153,6 +153,12 @@ dmyst --help
 
 > Detection is pattern-based. Matches can produce false positives and do not independently establish that a secret is exposed or a vulnerability is exploitable.
 
+## Proof of Concept (POC)
+<img width="872" height="717" alt="dmyst-1" src="https://github.com/user-attachments/assets/28ac77b8-ec2a-4c78-86f2-a286f2924f3a" />
+
+<img width="927" height="495" alt="dmyst-2" src="https://github.com/user-attachments/assets/219ac83c-108b-43e8-8603-6d31555f1965" />
+
+
 ## Custom Detection Patterns
 
 Each rule follows this format:
